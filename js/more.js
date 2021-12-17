@@ -54,9 +54,9 @@ function min10() {
 }
 
 function info_house() {
-    window.location.href = "../info-house.html";
+    window.location.href = "./info-house.html";
 }
 
 function home() {
-    window.location.href = "../index.html";
+    window.location.href = "./index.html";
 }
